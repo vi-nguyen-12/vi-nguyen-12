@@ -12,9 +12,9 @@
 - Coding and solving problem with Leetcode
 
 ## Projects for sharing 
-- E-commerce app: https://github.com/chloe-nguyen-12/e-commerce
+- E-commerce app: https://github.com/vi-nguyen-12/e-commerce
 - Booking flights: https://github.com/hatchways/team-kim-possible
-- Facebook clone: https://github.com/chloe-nguyen-12/facebook-clone
+- Facebook clone: https://github.com/vi-nguyen-12/facebook-clone
 <!--
 **vi-nguyen-12/vi-nguyen-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
