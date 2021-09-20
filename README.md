@@ -4,7 +4,7 @@
 
 
 ## Hi there 👋
-# I am Vi, a passionate Software Developer
+## I am Vi, a passionate Software Developer
 
 - Open and friendly
 - Love to learn new things, espcially things related to MERN
